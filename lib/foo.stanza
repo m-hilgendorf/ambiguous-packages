@@ -1,0 +1,6 @@
+defpackage lib/foo :
+  import core
+  import collections
+
+public defn foo () :
+  println $ "foo!"
